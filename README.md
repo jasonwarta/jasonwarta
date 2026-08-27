@@ -19,7 +19,7 @@ TypeScript · Node.js · React · PostgreSQL · MongoDB · AWS · Terraform · D
 - [loom](https://github.com/jasonwarta/loom): a backend-independent multi-agent orchestrator with capability-based worker routing and event-sourced, crash-recoverable state
 - [skills](https://github.com/jasonwarta/skills): the AI-assisted engineering tooling my team develops with, packaged as Claude Code plugins for spec-first, test-first work and multi-model code review
 - [mcp-mux](https://github.com/jasonwarta/mcp-mux): a Model Context Protocol multiplexer that shares tool-server processes across many agent sessions
-- [code-graph-mcp](https://github.com/jasonwarta/code-graph-mcp): a code-intelligence tool that uses AST parsing to give AI agents structural context (symbols, callers, and dependencies) over a codebase
+- [code-graph-mcp](https://github.com/jasonwarta/code-graph-mcp): a code-intelligence tool that uses AST parsing to give AI agents structural context (symbols, callers, and dependencies) over a codebase, later enhanced with a semantic layer built on Neo4j, embeddings, and RAG
 
 ### Elsewhere
 - [LinkedIn](https://www.linkedin.com/in/jason-warta/)
